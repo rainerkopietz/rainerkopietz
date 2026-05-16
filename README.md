@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rainerkopietz
-- 👀 I’m interested in F#, Scala and functional programming in general.
+- 👀 I’m interested in F#, Rust and functional programming in general.
 - 🌱 I’m currently learning F# and Fable.
 - 💞️ I’m looking to collaborate on ... I actually don't know
 - 📫 How to reach me ...
